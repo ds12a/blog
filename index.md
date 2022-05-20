@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+# DS12a Blog
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This blog consists mainly of my ramblings. If you have time to waste, enjoy reading these!
