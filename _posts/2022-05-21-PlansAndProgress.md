@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Plans
-description: Plans for this blog.
+title: Plans And Progress
+description: Plans for this blog and progress made.
 date: 2022-05-21
 tags: Ramble
 ---
