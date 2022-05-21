@@ -1,4 +1,10 @@
-## Introduction
+---
+layout: post
+title: Introduction
+description: A brief introduction...
+date: 2022-05-20
+tags: Misc
+---
 
 This is my blog. Not yours. I hope that is clear.
 
