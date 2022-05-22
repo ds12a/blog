@@ -2,7 +2,7 @@
 layout: post
 title: Postcontest Panic
 description: A postcontest reflection.
-date: 2022-05-22
+date: 2022-05-22 15:05:00 -0400
 tags: Ramble
 ---
 
