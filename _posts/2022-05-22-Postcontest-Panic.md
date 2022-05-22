@@ -6,7 +6,7 @@ date: 2022-05-22
 tags: Ramble
 ---
 
-Ok. The cmath ontest is done. I did far better than I thought I would. 
+The math contest is done. I did far better than I thought I would. 
 
 There were 6 questions, *not 5!!!* The first question caused me to dive into a 20 minute panic. The second one restored my confidence in myself, which was soon destroyed by the fourth question and restored once again by the fifth question. Part b of the third question still bothers me, as does the first question. My construction for the fourth question is somewhat iffy. I'm still worried that there were multiple answers to the fifth problem, and I only found one. My postcontest panic may or may not be worse than my precontest panic, now that my answers are submitted and unchangable. 
 
