@@ -3,7 +3,7 @@ layout: post
 title: USACO Training Tutorial - Raucous Rockers
 description: Tutorial for USACO Training - Raucous Rockers
 date: 2022-05-21
-tags: Competitive Programming
+tags: "Competitive Programming"
 ---
 
 Since I'm not quite sure yet about what I should post on this blog, I thought I'd start with a USACO Training Tutorial. My most recently solved one is Raucous Rockers. Here it is:
