@@ -18,10 +18,10 @@ The passenger has the advantage of being able to utilize both hands in this proc
 
 It must be first stated that this activity is extremely dangerous for the driver to engage in when the vehicle is in operation. To begin with, the process of making a PP&J sandwich is very much a two-handed activity. Driving is usually a two-handed activity. This leaves no safe way to make a sandwich. But let's assume that Bob is a very daring (and somewhat unintelligent) person. 
 
-Bob first must manage to obtain the bread. This can be accomplished with one hand remaining on the steering wheel and his other hand reaching blindly for the bread. This would clearly be a messy process. Now that the bread is in his posession and on the dashboard, Bob shifts his focus to the peanut butter. He grabs a jar and unscrews the lid through the combined effort of his hands and his legs. This process is repeated with the jar of jam. When Bob is done with that, he uses a utensil to scoop out the peanut butter and to spread it it out on a slice of bread. 
+Bob first must manage to obtain the bread. This can be accomplished with one hand remaining on the steering wheel and his other hand reaching blindly for the bread. This would clearly be a messy process. Now that the bread is in his possession and on the dashboard, Bob shifts his focus to the peanut butter. He grabs a jar and unscrews the lid through the combined effort of his hands and his legs. This process is repeated with the jar of jam. When Bob is done with that, he uses a utensil to scoop out the peanut butter and spread it out on a slice of bread. 
 
-But here he encounters a major problem! The bread sticks to the peanut butter which sticks to his utensil. Many things could happen here. Bob may not notice that the bread is following his utensil back and the bread falls onto Bob's clothes, slathering it with delicious (but rather unsightly) peanut butter. The same process arises with the jam. But should Bob suceed in ths perilous process, he is awarded with a not-very-well-made sandwich!
+But here he encounters a major problem! The bread sticks to the peanut butter which sticks to his utensil. Many things could happen here. Bob may not notice that the bread is following his utensil back and the bread falls onto Bob's clothes, slathering it with delicious (but rather unsightly) peanut butter. The same process arises with the jam. But should Bob succeed in this perilous process, he is awarded a not-very-well-made sandwich!
 
-## Summery:
+## Summary:
 
-It's not a pleasent experience making PB&J on a car driving down the highway at 70 mph (especially with construction). I assure you of this.
+It's not a pleasant experience making PB&J on a car driving down the highway at 70 mph (especially with construction). I assure you of this.
