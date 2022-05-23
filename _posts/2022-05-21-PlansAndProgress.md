@@ -2,7 +2,7 @@
 layout: post
 title: Plans And Progress
 description: Plans for this blog and progress made.
-date: 2022-05-21  12:05:00 -0400
+date: 2022-05-21  12:05:00 -0000
 tags: Ramble
 ---
 
