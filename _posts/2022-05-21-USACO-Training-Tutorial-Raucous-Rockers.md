@@ -25,9 +25,9 @@ Since I'm not quite sure yet about what I should post on this blog, I thought I'
 
 ## Analysis:
 
-Ok. I'm not so sure that I want to include the whole problem into my post next time.
+Ok. I'm not so sure that I want to include the whole problem in my post next time.
 
-The first thing I noticed was that the numbers given are small. Very rarely do I see input numbers <= 20. This indicates that this problem can *probably* be brute-forced. But I chose to try to solve it with DP, especially because of the word "maximum". This had me thinking: how can I construct a solution from solutions for "smaller problems" (with smaller N, T, and M). We need to keep track how many disks are we using, how much time remains on the last disk we are processing, and which songs we "may" use (1...k). From that, we have a value for the maximum number of songs we may store in `maxSongs[i][j][k]`, where i, j, and k represent the values mentioned earlier respectively. 
+The first thing I noticed was that the numbers given are small. Very rarely do I see input numbers <= 20. This indicates that this problem can *probably* be brute-forced. But I chose to try to solve it with DP, especially because of the word "maximum". This had me thinking: how can I construct a solution from solutions for "smaller problems" (with smaller N, T, and M). We need to keep track of how many disks are we using, how much time remains on the last disk we are processing, and which songs we "may" use (1...k). From that, we have a value for the maximum number of songs we may store in `maxSongs[i][j][k]`, where i, j, and k represent the values mentioned earlier respectively. 
 
 We know that `maxSongs[0][j][k]` and `maxSongs[i][j][0]` must equal 0 because there's no way we can store songs with 0 disks or 0 songs. `maxSongs[i][j][k]` should be >= `maxSongs[i][j][k - 1]` (at least the number of songs stored as with 1 less available song) and `maxSongs[i][j][k]` should be >= `maxSongs[i - 1][T][k]` (if we start a new disk, we can store at least what we could store without the extra disk). We can add a song if the remaining time on the last disk >= the length of the song we want to add. Our answer will be `maxSongs[M][T][N]`.
 
