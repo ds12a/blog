@@ -2,7 +2,7 @@
 layout: post
 title: Precontest Panic
 description: A precontest reflection.
-date: 2022-05-22 07:55:00 -0400
+date: 2022-05-22 07:55:00 -0000
 tags: Ramble
 ---
 
