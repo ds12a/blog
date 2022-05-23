@@ -16,7 +16,7 @@ I love VS Code, but I can't use it from my school-managed device. This made my d
 
 ![Upon opening](../img/2022-05-22-Github-Codespaces!!!/Codespace.png)
 
-Perfect! This is exactly what I had imagined when I first envisioned Codespaces. If I'm not mistaken, it's also using my favorite theme: Github Dark High Contrast!!! The upload feature makes it easy to add files to repos and greatly sped up the writing of this post. Overall, I could not expect a better developer experience, especially with little setup. The upload feature makes it easy to add files to repos and greatly sped up the writing of this post. 
+Perfect! This is exactly what I had imagined when I first envisioned Codespaces. It looks just like VS Code.  Also, if I'm not mistaken, it's also using my favorite theme: Github Dark High Contrast!!! The upload feature makes it easy to add files to repos and greatly sped up the writing of this post. Overall, I could not expect a better developer experience, especially with little setup. The upload feature makes it easy to add files to repos and greatly sped up the writing of this post. 
 
 ![In use](../img/2022-05-22-Github-Codespaces!!!/Codespace2.png)
 
