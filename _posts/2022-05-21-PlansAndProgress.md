@@ -17,4 +17,4 @@ Most of those issues are because I am using a template that I don't really under
 
 Since yesterday when I started this blog, I have made some progress on making this blog a bit "better". Comments are now supported, but you need a Github account. I have customized it just a bit so it's not quite as templated.
 
-That all for now.
+That's all for now.
