@@ -8,7 +8,7 @@ tags: Programming
 
 **Finally!**
 
-It was when I expected it the least. I had forgotten that I had signed up for Codespaces beta until I recieved *the email*.
+It was when I expected it the least. I had forgotten that I had signed up for Codespaces beta until I received *the email*.
 
 ![The Email](/blog/img/2022-05-22-Github-Codespaces!!!/Email.png)
 
