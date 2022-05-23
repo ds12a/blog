@@ -2,7 +2,7 @@
 layout: post
 title: Github Codespaces!!!
 description: Just got off the waitlist for Github Codespaces beta!
-date: 2022-05-22 20:25:00 -0000
+date: 2022-05-22 20:30:00 -0000
 tags: Programming
 ---
 
@@ -12,7 +12,7 @@ It was when I expected it the least. I had forgotten that I had signed up for Co
 
 ![The Email](../img/2022-05-22-Github-Codespaces!!!/Email.png)
 
-I love VS Code.  As a result, I could not pass up this opportunity to try out Github Codespaces. When I opened up a new Codespace, I was overjoyed to see its layout:
+I love VS Code, but I can't use it from my school-managed device. This made my developing experience rather painful.  As a result, I could not pass up this opportunity to try out Github Codespaces. When I opened up a new Codespace, I was overjoyed to see its layout:
 
 ![Upon opening](../img/2022-05-22-Github-Codespaces!!!/Codespace.png)
 
