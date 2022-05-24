@@ -2,7 +2,7 @@
 layout: post
 title: The March of the Final Exams
 description: As final exams march closer, my level of panic grows.
-date: 2022-05-23 12:59:00 -0000
+date: 2022-05-24 11:17:00 -0000
 tags: Ramble
 ---
 
