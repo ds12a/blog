@@ -22,6 +22,6 @@ Yes, I could lay out what I could study every day to ensure that I don't have to
 
 ## Conclusion
 
-Let $d$ be the number of days before exams begin. Let $P$ represent my panic level, measured as the percent of my sanity that I have lost as a result. Then, we have
+Let \(d\) be the number of days before exams begin. Let \(P\) represent my panic level, measured as the percent of my sanity that I have lost as a result. Then, we have
 
 $$ P(d) = {100 \over d} $$
