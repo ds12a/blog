@@ -2,7 +2,7 @@
 layout: post
 title: USACO Training Tutorial - Beef McNuggets
 description: Tutorial for USACO Training - Beef McNuggets
-date: 2022-05-25 21:20:00 -0000
+date: 2022-05-25 21:21:00 -0000
 tags: Competitive_Programming
 ---
 
@@ -27,7 +27,7 @@ I've decided that writing editorials for USACO problems isn't too bad. Here is a
 
 I feel like this problem is planning its own downfall. What's a USACO problem without the cows (alive and well, *not* in the form of a Beef McNugget)?
 
-This problem can easily be solved with dynamic programming by keeping track of which counts of McNuggets can be achieved and adding each package of McNuggets to the possible totals. If $gcd(ALL_SIZES)$ does not equal $1$, we have infinite solutions so we output $0$ as requested.
+This problem can easily be solved with dynamic programming by keeping track of which counts of McNuggets can be achieved and adding each package of McNuggets to the possible totals. If $gcd(SIZES)$ does not equal $1$, we have infinite solutions so we output $0$ as requested.
 
 However, if we do this with the ridiculously high upper bound given of $2,000,000,000$, we are likely to receive TLE. The program would have a complexity of $O(2,000,000,000 * 10)$! Can we find a lower upper bound to make this approach feasible?
 
