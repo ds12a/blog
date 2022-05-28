@@ -2,7 +2,7 @@
 layout: post
 title: One Week Of Blogging
 description: The state of my blog and myself after one week of blogging.
-date: 2022-05-22 20:25:00 -0000
+date: 2022-05-27 20:25:00 -0000
 tags: Ramble
 ---
 
