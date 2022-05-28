@@ -10,4 +10,4 @@ It has been one week since I started this blog. I'm actually pretty surprised th
 
 ## Exams literally start next week!
 
-I should really be studying for my exams rather than tapping away at my blog. I should probably start studying, like now. Forget about the rest of this post. I'm just going to end it here. Didn't I tell you not to expect literary masterpieces?
+I should really be studying for my exams rather than tapping away at my blog. I should probably start studying, like **now. Forget about the rest of this post. I'm just going to end it here. Didn't I tell you not to expect literary masterpieces?**
