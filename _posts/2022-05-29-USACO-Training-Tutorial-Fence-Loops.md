@@ -31,9 +31,10 @@ Yet another USACO editorial: Fence Loops. Enjoy!
 
 ## Analysis:
 
-Represent each segment as a node of a graph and the length of each segment is the weight of the edge to connecting segments. Run Dijkstra's algorithm from each segment to determine the shortest path (longer than 0) from a node to itself. This produces the minimum perimeter.
+Represent each segment as a node of a graph and the length of each segment is the weight of the edge to connecting segments. Run Dijkstra's algorithm from each segment to determine the shortest path (longer than 0) from a node to itself. This produces perimeters, choose the minimum one.
 
 ## Implementation:
+
 ```cpp
 #include <fstream>
 #include <iostream>
@@ -92,7 +93,7 @@ int main()
         // Start
         std::priority_queue<std::pair<std::pair<int, int>, std::pair<int, int>>>
             toProcess; // {-Dist, segment id}, {prev, first}
-        toProcess.push({{0, i}, {-1, -1}});
+        toProcess.push({ {0, i}, {-1, -1} });
 
         while (!toProcess.empty())
         {
