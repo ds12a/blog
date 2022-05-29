@@ -34,7 +34,7 @@ Yet another USACO editorial: Fence Loops. Enjoy!
 Represent each segment as a node of a graph and the length of each segment is the weight of the edge to connecting segments. Run Dijkstra's algorithm from each segment to determine the shortest path (longer than 0) from a node to itself. This produces perimeters, choose the minimum one.
 
 ## Implementation:
-
+<!-- {% raw %} -->
 ```cpp
 #include <fstream>
 #include <iostream>
@@ -152,5 +152,6 @@ int main()
     fout << minPerimeter << '\n';
 }
 ```
+<!-- {% endraw %}) -->
 
 And we are done! If there are any questions or clarifications needed, please comment below (if there are any readers).
