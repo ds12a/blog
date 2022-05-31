@@ -2,7 +2,7 @@
 layout: post
 title: An Infuriatingly Minuscule Mistake
 description: Try finding it!
-date: 2022-05-31 11:15:00 -0000
+date: 2022-05-31 12:10:00 -0000
 tags: Programming
 ---
 
@@ -15,7 +15,7 @@ if (deg < 360)
 }
 ```
 
-`overlaps` is an array containing $360$ integers. `preOverlap` is an integer. The segmentation fault was occuring on the line `overlaps[deg] = preOverlap;`. How could this be? `deg` is clearly less than $360$ so it shouldn't be trying to access memory that it's not supposed to. I became so desperate that I changed it to the following:
+`overlaps` is an array containing $360$ integers. `preOverlap` is an integer. The segmentation fault was occurring on the line `overlaps[deg] = preOverlap;`. How could this be? `deg` is clearly less than $360$ so it shouldn't be trying to access memory that it's not supposed to. I became so desperate that I changed it to the following:
 
 
 ```cpp
@@ -26,13 +26,12 @@ if (deg < 360)
 }
 ```
 
-As you can tell, I was fairly desperate. But to my astonishment, the `assert` failed! Apperently, `deg` sometimes was equal to or greater than $360$. Let's look at a broader version of my code:
+As you can tell, I was fairly desperate. But to my astonishment, the `assert` failed! Apparently, `deg` sometimes was equal to or greater than $360$. Let's look at a broader version of my code:
 
 ```cpp
 preOverlap += prefixDiffs[deg];
 
-// If deg < 360, we have not gone around the wheel yet
-// so the preOverlap is our calculated overlap\
+// std::cerr << preOverLap << '\n';\
 if (deg < 360)
 {
     assert(deg < 360); // ADDED
@@ -53,7 +52,7 @@ else
 
 The issue is clear! Wait, it isn't? 
 
-It took me a *long* time to figure out the issue. Take a closer look at the second line of comments. What do you notice about how it ends? It ends with a `\`!. This makes it a multi-line comment that includes the `if (deg < 360)` line. As a result, the `if` statement is never checked!
+It took me a *long* time to figure out the issue. Take a closer look at the second line of comments. What do you notice about how it ends? It ends with a `\`!. This makes it a multi-line comment that includes the `if (deg < 360)` line. As a result, the `if` statement is never checked! I suspect that I added the stray `\` by missing the <enter> key on my keyboard and instead I hit that key.
 
 More interestingly, the `assert` statement did not fail on my own computer, yet it failed on the USACO grader (this was for a solution to one of the USACO Training problems). 
 
