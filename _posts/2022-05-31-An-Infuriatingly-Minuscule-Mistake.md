@@ -33,7 +33,6 @@ preOverlap += prefixDiffs[deg];
 
 // If deg < 360, we have not gone around the wheel yet
 // so the preOverlap is our calculated overlap\
-
 if (deg < 360)
 {
     assert(deg < 360); // ADDED
